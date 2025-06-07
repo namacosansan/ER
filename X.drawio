@@ -734,7 +734,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="toRbOVVaLKip7XA09hD3-52" value="list_overview" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1130" width="140" height="150" as="geometry" />
+          <mxGeometry x="-180" y="1130" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="toRbOVVaLKip7XA09hD3-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="toRbOVVaLKip7XA09hD3-52">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -770,7 +770,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toRbOVVaLKip7XA09hD3-61" value="add_user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="toRbOVVaLKip7XA09hD3-59">
+        <mxCell id="toRbOVVaLKip7XA09hD3-61" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="toRbOVVaLKip7XA09hD3-59">
           <mxGeometry x="30" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -964,9 +964,9 @@
             <mxPoint x="520" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="toRbOVVaLKip7XA09hD3-121" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="toRbOVVaLKip7XA09hD3-72" target="toRbOVVaLKip7XA09hD3-53">
+        <mxCell id="toRbOVVaLKip7XA09hD3-121" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="toRbOVVaLKip7XA09hD3-56" target="toRbOVVaLKip7XA09hD3-66">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="50" y="1175" as="sourcePoint" />
+            <mxPoint x="40" y="1260" as="sourcePoint" />
             <mxPoint x="560" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
